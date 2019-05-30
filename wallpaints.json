@@ -19,9 +19,44 @@
       "name": "People",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+    },
+    {
+      "name": "Oneplus",
+      "preview_url": "https://github.com/Shahabkhan99/WallPaints/blob/master/1.jpg",
+      "preview_thumbnail_url": "https://github.com/Shahabkhan99/WallPaints/blob/master/1.jpg"
     }
   ],
   "Wallpapers": [
+    {
+      "name": "Oneplus",
+      "author": "Shahab",
+      "url": "https://github.com/Shahabkhan99/WallPaints/blob/master/1.jpg",
+      "collections": "Oneplus"
+    },
+        {
+      "name": "Oneplus",
+      "author": "Shahab",
+      "url": "https://github.com/Shahabkhan99/WallPaints/blob/master/2.jpg",
+      "collections": "Oneplus"
+    },
+        {
+      "name": "Oneplus",
+      "author": "Shahab",
+      "url": "https://github.com/Shahabkhan99/WallPaints/blob/master/3.jpg",
+      "collections": "Oneplus"
+    },
+        {
+      "name": "Oneplus",
+      "author": "Shahab",
+      "url": "https://github.com/Shahabkhan99/WallPaints/blob/master/4.jpg",
+      "collections": "Oneplus"
+    },
+        {
+      "name": "Oneplus",
+      "author": "Shahab",
+      "url": "https://github.com/Shahabkhan99/WallPaints/blob/master/5.jpg",
+      "collections": "Oneplus"
+    },
     {
       "name": "ShotA",
       "author": "Shahab",
