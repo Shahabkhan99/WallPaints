@@ -24,6 +24,11 @@
       "name": "Oneplus",
       "preview_url": "https://raw.githubusercontent.com/Shahabkhan99/WallPaints/master/1.jpg",
       "preview_thumbnail_url": "https://raw.githubusercontent.com/Shahabkhan99/WallPaints/master/1.jpg"
+    },
+    {
+      "name": "Apps",
+      "preview_url": "https://www.gstatic.com/webp/gallery/5.webp",
+      "preview_thumbnail_url": "https://www.gstatic.com/webp/gallery/5.webp"
     }
   ],
   "Wallpapers": [
@@ -31,7 +36,7 @@
       "name": "Oneplus",
       "author": "Shahab",
       "url": "https://raw.githubusercontent.com/Shahabkhan99/WallPaints/master/1.jpg",
-      "collections": "Oneplus"
+      "collections": "Oneplus" 
     },
         {
       "name": "Oneplus",
@@ -160,6 +165,14 @@
       "dimensions": "3200x2560",
       "copyright": "Unknown",
       "collections": "landscapes"
-    }
-  ]
+    },
+    "Apps": [
+    {
+      "name": "OTA",
+      "author": "Shahab",
+      "url": "https://github.com/Shahabkhan99/WallPaints/blob/master/OTA.apk",
+      "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+      "collections": "Apps" 
+    }  
+  ]   
 }
