@@ -35,6 +35,12 @@
     {
       "name": "Oneplus",
       "author": "Shahab",
+      "url": "https://github.com/Shahabkhan99/WallPaints/raw/master/OTA.apk",
+      "collections": "Oneplus" 
+    },
+    {
+      "name": "Oneplus",
+      "author": "Shahab",
       "url": "https://raw.githubusercontent.com/Shahabkhan99/WallPaints/master/1.jpg",
       "collections": "Oneplus" 
     },
